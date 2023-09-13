@@ -7,7 +7,7 @@
 	#menu view
 	mensagemBemVindo: .asciiz "Seja bem vindo a Lanchonete McMissil"
 	pedido: .asciiz "1.Realizar pedido"
-	sair: .asciiz "2.Sair"	
+	sair: .asciiz "2.Sai"	
 	
 	#cardapio view
 	mensagemCardapio: .asciiz "Escolha seus produtos!"
